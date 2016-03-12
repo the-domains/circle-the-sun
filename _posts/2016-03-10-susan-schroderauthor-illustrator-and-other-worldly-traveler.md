@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Susan Schroder---Author, Illustrator and Other-Worldly Traveler'
-datePublished: '2016-03-12T18:34:23.326Z'
-dateModified: '2016-03-12T18:34:04.165Z'
+datePublished: '2016-03-12T19:15:30.796Z'
+dateModified: '2016-03-12T19:15:28.600Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-susan-schroderauthor-illustrator-and-other-worldly-traveler.md
@@ -22,7 +22,7 @@ url: susan-schroderauthor-illustrator-and-other-worldly-traveler/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cacc1-6386-4633-94d0-77348c9dc874.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/073084ba6b7ac9f65927d35b400e9caeb7af8e7b.jpg)
 
 Susan Schroder---  
 Author, Illustrator and Other-Worldly Traveler
