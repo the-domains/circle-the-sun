@@ -4,21 +4,21 @@
         <description><![CDATA[Circle the Sun Books]]></description>
         <link>https://thegrid.ai/circle-the-sun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 18:35:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/circle-the-sun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f03ffb6-a5e2-469e-bcd8-530087fa5058.jpg">]]></description>
+            <link>https://thegrid.ai/circle-the-sun/d60e65ed-3746-472e-a2c8-33f8272d9d89/index.html</link>
+            <guid isPermaLink="false">d60e65ed-3746-472e-a2c8-33f8272d9d89</guid>
+            <pubDate>Sat, 12 Mar 2016 18:35:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cacc1-6386-4633-94d0-77348c9dc874.jpg">]]></description>
             <link>https://thegrid.ai/circle-the-sun/susan-schroderauthor-illustrator-and-other-worldly-traveler/index.html</link>
             <guid isPermaLink="false">5efcf2c3-9e1e-4b1e-a5a7-390647469ef1</guid>
             <pubDate>Sat, 12 Mar 2016 18:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f03ffb6-a5e2-469e-bcd8-530087fa5058.jpg">]]></description>
-            <link>https://thegrid.ai/circle-the-sun/d60e65ed-3746-472e-a2c8-33f8272d9d89/index.html</link>
-            <guid isPermaLink="false">d60e65ed-3746-472e-a2c8-33f8272d9d89</guid>
-            <pubDate>Tue, 08 Mar 2016 04:13:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
